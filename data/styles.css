@@ -1,0 +1,10 @@
+hr {
+  border: 2px solid darkred;
+  width: 100%
+}
+body {
+  background-color: #151515;
+}
+h1 {
+  color: white;
+}

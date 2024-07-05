@@ -1,9 +1,12 @@
 hr {
   border: 2px solid darkred;
-  width: 100%
+  width: 100%;
 }
 body {
+  margin-top: 0;
   background-color: #151515;
+  width: 99%;
+  height: 100%;
 }
 h1 {
   color: white;
@@ -16,4 +19,10 @@ h3 {
 }
 li {
   color: white;
+}
+.site-bar {
+  width: 100%;
+  margin: 0;
+  position: fixed;
+  background-color: #151515;
 }

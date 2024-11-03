@@ -1,13 +1,24 @@
 .circle-avatar {
     border-radius: 50%;
 }
-.bi {
-    width: 50px;
-    height: 50px;
-    color: white;
-}
+
 .nav-bar {
     position: fixed;
     width: 100%;
     background-color: var(--bs-body-bg)
 }
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.nav-link {
+    color: rgb(255, 100, 100);
+}
+
+.nav-link:hover {
+    color: rgb(255, 10, 10, 1);
+}
+

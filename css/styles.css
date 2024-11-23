@@ -1,5 +1,7 @@
 .circle-avatar {
     border-radius: 50%;
+    width: 1000px;
+    height: 450px;
 }
 
 .nav-bar {

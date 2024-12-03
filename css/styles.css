@@ -4,12 +4,6 @@
     height: 450px;
 }
 
-.nav-bar {
-    position: fixed;
-    width: 100%;
-    background-color: var(--bs-body-bg)
-}
-
 .feature-icon {
     width: 4rem;
     height: 4rem;
